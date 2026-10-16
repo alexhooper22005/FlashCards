@@ -8,14 +8,14 @@ This file tells AI coding agents (Claude Code, Copilot, Cursor, Codex, etc.) how
 
 ## 1. Project Details (student fills this in)
 
-- **App name:**
-- **One-sentence description:**
-- **Platform:** Web / Mobile (circle one)
+- **App name: StudyFlash**
+- **One-sentence description: Flash card app that students can add and save and delete flashcards to help study**
+- **Platform:** Mobile 
 - **Language(s):**
 - **Frameworks:** (e.g., React, Next.js, Express, Flutter, React Native, SwiftUI, Django)
 - **Data storage:** (e.g., PostgreSQL, SQLite, Firebase, local device storage, external API)
 - **Test framework(s):** (e.g., Jest, Vitest, pytest, JUnit, XCTest, flutter_test)
-- **Command to run the app:**
+- **Command to run the app: npm start**
 - **Command to run all tests:**
 - **Command to run a single test file:**
 - **Command to run the linter/formatter:**
